@@ -19,5 +19,4 @@ class Book extends Model
         'subtitle',
         'authors'
     ];
-
 }

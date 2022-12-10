@@ -51,7 +51,7 @@
                     data: 'small_thumbnail',
                     name: 'small_thumbnail',
                     render: function(data, type, full, meta) {
-                        return "<img src=" + data + " height=50 alt='No image available!' />";
+                        return "<img src=" + data + " height='100' width='70' alt='No image available!' />";
                     },
                     orderable: false,
                     searchable: false
